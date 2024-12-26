@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Hey, welcome to EazyBank accounts related webhook APIs"
   contactDetails:
-    name: "Mary Aishwarya - Product Owner"
+    name: "John Aishwarya - Product Owner"
     email: "{cipher}da688b1fb23affa78f9cd0556b053c3aff19168044cfe069660669899ceb32b92faf537d64217dcfa225caec2f752a36"
   onCallSupport:
     - (453) 392-4829
